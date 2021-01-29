@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My research, currently taking place at the University of York (UK),  focusses on the interactions between molecules to build dynamical structures, which find relevance in examples ranging from pathologies (concerning both bacteria and viruses) and the fabrication of organic solar cells, to the production of silk-like polymeric fibres.
+My research  focusses on the interactions between molecules to build dynamical structures, which find relevance in examples ranging from pathologies (concerning both bacteria and viruses) and the fabrication of organic solar cells, to the production of silk-like polymeric fibres.
 
-This website is inteded to serve as my central hub to provide an overview of my current activities, and provide the links (left side menu) to all the various media (LinkedIn, ResearchGate, etc.) that I use to communicate my research output.
+Affiliation
+----
+Department of Physics, University of York (UK)
+
+Publications
+----
+For the most up-to-date list of publications I refer to my [GoogleScholar](https://scholar.google.co.uk/citations?user=SKHIHrEAAAAJ&hl=nl) account, while more recent preprints and posters are available on my [ResearchGate](https://www.researchgate.net/profile/Charley_Schaefer2) account.
+
 
