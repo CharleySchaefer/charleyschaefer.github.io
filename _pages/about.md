@@ -14,7 +14,7 @@ My research  focusses on the interactions between molecules to build dynamical s
           
 
  
- <img src="https://charleyschaefer.github.io/files/CoverSoftMatter2018.png" alt="drawing" height="250"/>    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://charleyschaefer.github.io/files/CoverSoftMatter2019.png" alt="drawing" height="250"/>   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://charleyschaefer.github.io/images/silk.png" alt="drawing" height="200"/>
+ <img src="https://charleyschaefer.github.io/files/CoverSoftMatter2018.png" alt="drawing" width="200"/>     &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://charleyschaefer.github.io/files/CoverSoftMatter2019.png" alt="drawing" width="200"/>   &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://charleyschaefer.github.io/images/silk.png" alt="drawing" width="220"/>
 
   
  **Molecular Self-Assembly**    &nbsp;&nbsp;&nbsp;&nbsp;          **Liquid-liquid phase separation**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;    **Polymer physics**
