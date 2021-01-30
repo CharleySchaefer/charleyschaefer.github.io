@@ -8,9 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+
 My research  focusses on the interactions between molecules to build dynamical structures, which find relevance in examples ranging from pathologies (concerning both bacteria and viruses) and the fabrication of organic solar cells, to the production of silk-like polymeric fibres.
 
-<img src="https://charleyschaefer.github.io/files/CoverSoftMatter2018.png" alt="drawing" width="200"/> <img src="https://charleyschaefer.github.io/files/CoverSoftMatter2019.png" alt="drawing" width="200"/> <img src="https://charleyschaefer.github.io/images/silk.png" alt="drawing" width="250"/>
+          
+
+ 
+ <img src="https://charleyschaefer.github.io/files/CoverSoftMatter2018.png" alt="drawing" height="250"/>    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://charleyschaefer.github.io/files/CoverSoftMatter2019.png" alt="drawing" height="250"/>   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://charleyschaefer.github.io/images/silk.png" alt="drawing" height="200"/>
+
+  
+ **Molecular Self-Assembly**    &nbsp;&nbsp;&nbsp;&nbsp;          **Liquid-liquid phase separation**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;    **Polymer physics**
+
+
 
 Affiliation
 ----
