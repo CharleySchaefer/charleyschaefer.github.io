@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education & Affiliations
-======
+------
 * 2018-present: Post-Doctoral Research Associate, University of York (UK) 
 * 2017-2018: Post-Doctoral Research Associate, University of Durham  (UK) 
 * 2016-2017: Device Physicist (Organic Electronics), Simbeyond B.V.  (NL)
@@ -19,7 +19,7 @@ Education & Affiliations
 
 
 Research Interests
-======  
+------
 * Liquid-liquid phase separation
   * Biological coacervates
   * Polymer composites
@@ -31,7 +31,7 @@ Research Interests
   * Self-organisation of virus capsids
   
 Research Skills
-======
+------
 * Statistical Mechanics  
   * Analytical methods (e.g., Fokker-Planck & master equation)
   * Numerical methods (discretisation)
@@ -47,11 +47,11 @@ Research Skills
   * Linux, git, bash, matlab, python, C
 
 Teaching 
-======
+------
 * Guest lecture on collective diffusion & phase separation  
 * Supervision of BSc-MSc level students in research projects
 
 Publications 
-======
+------
 A selected number of key publications will be added here. 
 For the most comprehensive list of publications I refer to my ![google scholar](https://scholar.google.co.uk/citations?user=SKHIHrEAAAAJ&hl=nl) account. Unpublished manuscripts (preprints) and posters are available at my ![ResearchGate](https://www.researchgate.net/profile/Charley_Schaefer2) account.
