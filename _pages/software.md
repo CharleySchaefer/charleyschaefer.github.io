@@ -14,12 +14,12 @@ Software that is not yet publicly shared (but of which the output is used in my 
 Bombyx
 ---
 [Bombyx](https://github.com/CharleySchaefer/Bombyx) uses a brute-force algorithm to fit the *sticky-reptation* model to the measured linear-viscoelastic response of silk feedstock, produced by the *Bombyx mori* silkworm.
-The code is written in C, and its output is peer reviewed in the scientific journal [Schaefer et.,  Macromolecules 2020](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.9b02630). I aim to improve the algorithm further, and implement it into RepTate (see below).
+The code is written in C, and its output is peer reviewed in the scientific publication [Schaefer et.,  Macromolecules 2020](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.9b02630). I aim to improve the algorithm further, and implement it into RepTate (see below).
 
 MorusMD
 ---
 MorusMD (not yet publicly available) simulates the coarse-grained molecular dynamics of sticky polymers in flow.
-The simulation output is peer reviewed in the  scientific journal *Schaefer & McLeish, Phys. Rev. Lett.* (accepted) *2021*.
+The simulation output is peer reviewed in the  scientific publication *Schaefer & McLeish, Phys. Rev. Lett.* (accepted) *2021*.
 In my research, I use it in particular to understand the flow-induced self-assembly of silk feedstock, produced by the *Bombyx mori* silkworm.
 
 RepTate (contribution)
