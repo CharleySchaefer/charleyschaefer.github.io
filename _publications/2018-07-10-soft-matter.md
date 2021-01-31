@@ -2,7 +2,7 @@
 title: "Ligand-regulated oligomerisation of allosterically interacting proteins"
 collection: publications
 permalink: /publication/2018-07-10-soft-matter
-excerpt: '[<img src="https://charleyschaefer.github.io/files/CoverSoftMatter2018.png" alt="drawing" width="200"/>](https://doi.org/10.1039/C8SM00943K)\  Impact of dynamic allostery on supramolecular polymerisation.'
+excerpt: '[<img src="https://charleyschaefer.github.io/files/CoverSoftMatter2018.png" alt="drawing" width="200"/>](https://doi.org/10.1039/C8SM00943K) <br/>  Impact of dynamic allostery on supramolecular polymerisation.'
 date: 2018-07-10
 venue: 'Soft Matter'
 paperurl: 'https://doi.org/10.1039/C8SM00943K'
