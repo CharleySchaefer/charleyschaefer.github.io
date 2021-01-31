@@ -9,51 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education & Affiliations
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2018-present: Post-Doctoral Research Associate, University of York (UK) 
+* 2017-2018: Post-Doctoral Research Associate, University of Durham  (UK) 
+* 2016-2017: Device Physicist (Organic Electronics), Simbeyond B.V.  (NL)
+* 2016: Ph.D in Applied Physics, Eindhoven University of Technology  (NL)
+* 2012: MSc in Chemical Engineering, Eindhoven University of Technology  (NL)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Interests
+======  
+* Liquid-liquid phase separation
+  * Biological coacervates
+  * Polymer composites
+* Polymer physics
+  * Polymer precipitation in organic solar cells
+  * Spinning of silk-like polymers
+* Molecular Self-assembly
+  * Supramolecular polymerisation of small monomers
+  * Self-organisation of virus capsids
   
-Skills
+Research Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical Mechanics  
+  * Analytical methods (e.g., Fokker-Planck & master equation)
+  * Numerical methods (discretisation)
+  * Simulation development
+* Polymer physics
+  * Scaling concepts
+  * Tube model
+  * Sticky reptation
+* Liquid-liquid phase separation
+  * Cahn-Hilliard, Collective diffusion
+  * Thin films (solvent evaporation & stratification) 
+* Software Engineering
+  * Linux, git, bash, matlab, python, C
 
-Publications
+Teaching 
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Guest lecture on collective diffusion & phase separation  
+* Supervision of BSc-MSc level students in research projects
+
+Publications 
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+A selected number of key publications will be added here. 
+For the most comprehensive list of publications I refer to my ![google scholar](https://scholar.google.co.uk/citations?user=SKHIHrEAAAAJ&hl=nl) account. Unpublished manuscripts (preprints) and posters are available at my ![ResearchGate](https://www.researchgate.net/profile/Charley_Schaefer2) account.
