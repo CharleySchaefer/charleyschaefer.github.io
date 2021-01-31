@@ -34,4 +34,11 @@ A selected number of publications is given [here](https://charleyschaefer.github
 For the most comprehensive list of publications I refer to my [google scholar](https://scholar.google.co.uk/citations?user=SKHIHrEAAAAJ&hl=nl) account.
 Unpublished manuscripts (preprints) and posters are available at my [ResearchGate](https://www.researchgate.net/profile/Charley_Schaefer2) account.
 
+Funding
+----
+
+<img src="https://www.ncl.ac.uk/media/wwwnclacuk/facultyofsage/logos/epsrc.png" alt="drawing" width="200"/>
+
+My current research is funded by the EPSRC. Previous projects were funded by the Dutch Polymer Institute (NL), Physics of Life (UK), Biological Physical Sciences network (York, UK) and the Erasmus Exchange Programme (EU). 
+
 
