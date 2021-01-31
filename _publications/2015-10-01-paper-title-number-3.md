@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Silk Protein Solution: A Natural Example of Sticky Reptation"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2020-macromolecules
+excerpt: 'Polymer physics for the linear viscoelastic response of silk feedstock'
+date: 2020
+venue: 'Macromolecules'
+paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acs.macromol.9b02630'
+citation: 'C. Schaefer, P.R. Laity, C. Holland, T.C.B. McLeish. &quot;Silk Protein Solution: A Natural Example of Sticky Reptation.&quot; <i>Macromolecules</i>. 53, 2669–2676 (2020)'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Polymer physics for the linear viscoelastic response of silk feedstock.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.9b02630)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: C. Schaefer, P.R. Laity, C. Holland, T.C.B. McLeish. "Silk Protein Solution: A Natural Example of Sticky Reptation." <i>Macromolecules</i>. 53, 2669–2676 (2020)
