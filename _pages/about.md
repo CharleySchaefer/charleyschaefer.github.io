@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Soft Matter in Biology and Materials Science"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
