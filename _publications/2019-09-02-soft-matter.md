@@ -3,7 +3,7 @@ title: "Morphology formation in binary mixtures upon gradual destabilisation"
 collection: publications
 permalink: /publication/2019-09-02-soft-matter
 excerpt: '[<img src="https://charleyschaefer.github.io/files/CoverSoftMatter2019.png" alt="drawing" width="200"/>](https://doi.org/10.1039/C9SM01344J)<br/>  
-Impact of thermal fluctuations on phase separation during a continuous quench'
+Impact of thermal fluctuations on phase separation during a continuous quench.'
 date: 2019-09-02
 venue: 'Soft Matter'
 paperurl: 'https://doi.org/10.1039/C9SM01344J'
