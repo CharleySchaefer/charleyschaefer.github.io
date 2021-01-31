@@ -1,7 +1,7 @@
 ---
 title: "Silk Protein Solution: A Natural Example of Sticky Reptation"
 collection: publications
-permalink: /publication/2020-macromolecules
+permalink: /publication/2020-03-27-macromolecules
 excerpt: 'Polymer physics for the linear viscoelastic response of silk feedstock'
 date: 2020-03-27
 venue: 
