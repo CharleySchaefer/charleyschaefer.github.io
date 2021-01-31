@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About me"
+excerpt: "Soft Matter in Biology and Materials Science"
 author_profile: true
 redirect_from: 
   - /about/
