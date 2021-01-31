@@ -30,7 +30,7 @@ Research Associate in the [Physics of Life](https://www.york.ac.uk/physics/resea
 
 Publications
 ----
-On this website I highlight a selected number of key publications.
+A selected number of publications is given [here](https://charleyschaefer.github.io/publications/).
 For the most comprehensive list of publications I refer to my [google scholar](https://scholar.google.co.uk/citations?user=SKHIHrEAAAAJ&hl=nl) account.
 Unpublished manuscripts (preprints) and posters are available at my [ResearchGate](https://www.researchgate.net/profile/Charley_Schaefer2) account.
 
