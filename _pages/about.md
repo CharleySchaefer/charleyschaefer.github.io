@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-In my **Soft Matter** research I focus on the self-organisation of molecules into large dynamical structures. The key research activity is the development of new models and simulation techniques that act as a **double-edged sword**: while providing **new insights into complex (bio-)molecular systems** (related to medicine, green catalysis and spider/silkworm silk) , they provide tools that assist the **development of novel materials** ranging from organic solar cells to silk-like polymeric fibres.
+In my **Soft Matter** research I focus on the self-organisation of molecules into large dynamical structures. The key research activity is the development of new models and simulation techniques that act as a **double-edged sword**: while providing **new insights into complex (bio-)molecular systems** (related to medicine, green catalysis and spider/silkworm silk), they provide tools that assist the **development of novel materials** ranging from organic solar cells to silk-like polymeric fibres.
 
           
 
