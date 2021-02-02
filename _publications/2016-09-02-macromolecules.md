@@ -1,14 +1,14 @@
-
 ---
 title: "Structuring of Thin-Film Polymer Mixtures upon Solvent Evaporation"
 collection: publications
 permalink: /publication/2016-09-02-macromolecules
-excerpt: 'Manufacturing of Organic Solar Cells'
+excerpt: 'Manufacturing of Organic Solar Cells.'
 date: 2016-09-02
 venue: 'Macromolecules'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acs.macromol.6b00537'
 citation: 'C. Schaefer, J.J. Michels, P. van der Schoot. &quot;Structuring of Thin-Film Polymer Mixtures upon Solvent Evaporation.&quot; <i>Macromolecules</i>. 49, 6858–6870 (2016)'
 ---
+
 
 Organic solar cells consists of a thin film of about 100 nanometers thickness (a ten thousandth of a millimeter), which consists of an intercalated structure of electricity conducting polymers and a fullerene molecules.
 The layer thickness and internal structure are formed by starting from a solution and removing the solvent in a controlled way.
