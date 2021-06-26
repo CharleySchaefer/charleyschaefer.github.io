@@ -2,7 +2,7 @@
 title: "Membraneless organelles formed by liquid-liquid phase separation increase bacterial fitness"
 collection: publications
 permalink: /publication/2021-06-26-llps-ecoli
-excerpt: '[<img src="https://charleyschaefer.github.io/files/2021-llps-ecoli.png" alt="drawing" width="220"/>](https://arxiv.org/abs/2106.13148) <br/>  Liquid-liquid phase separation of proteins to form membraneless organelles in living bacteria'
+excerpt: '[<img src="https://charleyschaefer.github.io/files/2021-llps-ecoli.png" alt="drawing" width="220"/>](https://arxiv.org/abs/2106.13148) <br/>  Liquid-liquid phase separation of proteins to form membraneless organelles in living bacteria.'
 date: 2021-02-02
 venue: 'submitted; arXiv'
 paperurl: 'https://arxiv.org/abs/2106.13148'
@@ -10,6 +10,7 @@ citation: 'Xin Jin, Ji-Eun Lee, Charley Schaefer, Xinwei Luo, Adam J. M. Wollman
 ---
 
 <img src="https://charleyschaefer.github.io/files/2021-llps-ecoli.png" alt="drawing" width="260"/>
+
 <b>Figure:</b> <i>kinetic Monte Carlo simulation of both LLPS and fluorescence recovery after photobleaching (FRAP) through the collective diffusion of proteins. Fluorescent proteins in blue; bleached ones in red. </i>
 
 
