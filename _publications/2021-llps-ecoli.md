@@ -10,6 +10,7 @@ citation: 'Xin Jin, Ji-Eun Lee, Charley Schaefer, Xinwei Luo, Adam J. M. Wollman
 ---
 
 <img src="https://charleyschaefer.github.io/files/2021-llps-ecoli.png" alt="drawing" width="260"/>
+<b>Figure:</b> <i>kinetic Monte Carlo simulation of both LLPS and fluorescence recovery after photobleaching (FRAP) through the collective diffusion of proteins. Fluorescent proteins in blue; bleached ones in red. </i>
 
 Liquid-liquid phase separation is emerging as a crucial phenomenon in several fundamental cell processes. 
 A range of eukaryotic systems exhibit liquid condensates. However, their function in bacteria, which in general lack membrane-bound compartments, remains less clear. 
