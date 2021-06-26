@@ -9,7 +9,7 @@ paperurl: 'https://arxiv.org/abs/2106.13148'
 citation: 'Xin Jin, Ji-Eun Lee, Charley Schaefer, Xinwei Luo, Adam J. M. Wollman, Alex L. Payne-Dwyer, Tian Tian, Xiaowei Zhang, Xiao Chen, Yingxing Li, Tom C. B. McLeish, Mark C. Leake, Fan Bai. &quot;Membraneless organelles formed by liquid-liquid phase separation increase bacterial fitness.&quot; <i>submitted</i>.  xx, xxxxxx  (2021)'
 ---
 
-<img src="https://charleyschaefer.github.io/files/2021-llps-ecoli.png" alt="drawing" width="220"/>
+<img src="https://charleyschaefer.github.io/files/2021-llps-ecoli.png" alt="drawing" width="260"/>
 
 Liquid-liquid phase separation is emerging as a crucial phenomenon in several fundamental cell processes. 
 A range of eukaryotic systems exhibit liquid condensates. However, their function in bacteria, which in general lack membrane-bound compartments, remains less clear. 
