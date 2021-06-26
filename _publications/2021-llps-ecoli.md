@@ -16,3 +16,9 @@ A range of eukaryotic systems exhibit liquid condensates. However, their functio
 Here, we used high-resolution optical microscopy to observe single bacterial aggresomes, nanostructured intracellular assemblies of proteins, to undercover their role in cell stress. 
 We find that proteins inside aggresomes are mobile and undergo dynamic turnover, consistent with a liquid state. 
 Our observations are in quantitative agreement with phase-separated liquid droplet formation driven by interacting proteins under thermal equilibrium that nucleate following diffusive collisions in the cytoplasm. We have discovered aggresomes in multiple species of bacteria, and show that these emergent, metastable liquid-structured protein assemblies increase bacterial fitness by enabling cells to tolerate environmental stresses. 
+
+In this work, I used my expertise in modelling liquid-liquid phase separation (LLPS) using a kinetic Monte Carlo algorithm, which I previously developed to understand how the dynamics of LLPS is altered by 'random' thermal fluctuations when the thermodynamical trigger for LLPS is induced slowly, rather than instantaneously. See our paper in Soft Matter 2019:
+
+[<img src="https://charleyschaefer.github.io/files/CoverSoftMatter2019.png" alt="drawing" width="200"/>](https://doi.org/10.1039/C9SM01344J)
+
+
