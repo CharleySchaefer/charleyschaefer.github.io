@@ -31,5 +31,4 @@ While my contribution of implementing the [sticky reptation model](https://repta
 
 ZiltoidLIB
 ---
-[ZiltoidLIB](https://github.com/CharleySchaefer/ZiltoidLIB) is my personal, but publicly shared, C/C++ library. I started its development as a student, and  called it after [Ziltoid the Omniscient](https://en.wikipedia.org/wiki/Ziltoid_the_Omniscient) as a metaphore for my work being fueled by coffee and music.
-
+[ZiltoidLIB](https://github.com/CharleySchaefer/ZiltoidLIB) is my personal, but publicly shared, C/C++ library.
