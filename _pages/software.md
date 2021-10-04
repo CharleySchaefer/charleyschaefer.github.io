@@ -18,9 +18,8 @@ The code is written in C, and its output is peer reviewed in the scientific publ
 
 MorusMD
 ---
-MorusMD (not yet publicly available) simulates the coarse-grained molecular dynamics of sticky polymers in flow.
-The simulation output is peer reviewed in the  scientific publication *Schaefer & McLeish, Phys. Rev. Lett.* (accepted) *2021*.
-In my research, I use it in particular to understand the flow-induced self-assembly of silk feedstock, produced by the *Bombyx mori* silkworm.
+[MorusMD](https://github.com/CharleySchaefer/MorusMD1D) simulates the coarse-grained molecular dynamics of sticky polymers in flow in 1D.
+The simulation output is peer reviewed in the scientific publication [*Schaefer & McLeish, Phys. Rev. Lett (2021)*](https://doi.org/10.1103/PhysRevLett.126.057801).
 
 RepTate (contribution)
 ---
