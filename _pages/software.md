@@ -11,6 +11,12 @@ The software that I develop and use for my research is (when possible) shared in
 Software that is not yet publicly shared (but of which the output is used in my publications) is usually available on request.
 
 
+
+AggresomeIPBM
+---
+[AggresomeIPBM](https://github.com/CharleySchaefer/AggresomeIPBM) simulates the collective dynamics of protein using a kinetic Monte Carlo algorithm.
+In [X. Jin et al., Science Adv. 7, 43 (2021)](https://www.science.org/doi/10.1126/sciadv.abh2929) this software was used to simulate the LLPS of proteins, as well as the fluorescence recovery after photobleaching (FRAP), in living bacteria.
+
 Bombyx
 ---
 [Bombyx](https://github.com/CharleySchaefer/Bombyx) uses a brute-force algorithm to fit the *sticky-reptation* model to the measured linear-viscoelastic response of silk feedstock, produced by the *Bombyx mori* silkworm.
