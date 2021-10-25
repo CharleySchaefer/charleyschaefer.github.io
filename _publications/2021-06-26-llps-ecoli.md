@@ -3,10 +3,10 @@ title: "Membraneless organelles formed by liquid-liquid phase separation increas
 collection: publications
 permalink: /publication/2021-06-26-llps-ecoli
 excerpt: '[<img src="https://charleyschaefer.github.io/files/2021-llps-ecoli.png" alt="drawing" width="220"/>](https://arxiv.org/abs/2106.13148) <br/>  Liquid-liquid phase separation of proteins to form membraneless organelles in living bacteria.'
-date: 2021-02-02
-venue: 'submitted; arXiv'
-paperurl: 'https://arxiv.org/abs/2106.13148'
-citation: 'Xin Jin, Ji-Eun Lee, Charley Schaefer, Xinwei Luo, Adam J. M. Wollman, Alex L. Payne-Dwyer, Tian Tian, Xiaowei Zhang, Xiao Chen, Yingxing Li, Tom C. B. McLeish, Mark C. Leake, Fan Bai. &quot;Membraneless organelles formed by liquid-liquid phase separation increase bacterial fitness.&quot; <i>submitted</i>.  xx, xxxxxx  (2021)'
+date: 2021-10-20
+venue: 'Science Advances'
+paperurl: 'https://www.science.org/doi/10.1126/sciadv.abh2929'
+citation: 'Xin Jin, Ji-Eun Lee, Charley Schaefer, Xinwei Luo, Adam J. M. Wollman, Alex L. Payne-Dwyer, Tian Tian, Xiaowei Zhang, Xiao Chen, Yingxing Li, Tom C. B. McLeish, Mark C. Leake, Fan Bai. &quot;Membraneless organelles formed by liquid-liquid phase separation increase bacterial fitness.&quot; <i>Science Adv.</i>.  7, 43  (2021)'
 ---
 
 <img src="https://charleyschaefer.github.io/files/2021-llps-ecoli.png" alt="drawing" width="260"/>
