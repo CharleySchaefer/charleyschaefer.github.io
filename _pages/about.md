@@ -12,7 +12,7 @@ redirect_from:
 Within the field of **Soft Matter** science, I research the self-organisation of molecules into large dynamical structures. My key research activity is the development of new models and simulation techniques that act as a **double-edged sword**: while providing **new insights into complex (bio-)molecular systems** (related to medicine, green catalysis and spider/silkworm silk), they provide tools that assist the **development of novel materials** ranging from organic solar cells to silk-like polymeric fibres.
 
           
-[<img src="https://charleyschaefer.github.io/images/SilkSpinning.png" alt="drawing" width="500"/>]
+<img src="https://charleyschaefer.github.io/images/SilkSpinning.png" alt="drawing" width="500"/>
  
  [<img src="https://charleyschaefer.github.io/files/CoverSoftMatter2018.png" alt="drawing" width="200"/>](https://doi.org/10.1039/C8SM00943K)     &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://charleyschaefer.github.io/files/CoverSoftMatter2019.png" alt="drawing" width="200"/>](https://doi.org/10.1039/C9SM01344J)   &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://charleyschaefer.github.io/images/silk.png" alt="drawing" width="220"/>](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.9b02630)
 
