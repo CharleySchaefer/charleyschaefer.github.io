@@ -22,7 +22,7 @@ Within the field of **Soft Matter** science, I research the self-organisation of
 
  [<img src="https://charleyschaefer.github.io/files/CoverSoftMatter2018.png" alt="drawing" width="200"/>](https://doi.org/10.1039/C8SM00943K)     &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://charleyschaefer.github.io/files/CoverSoftMatter2019.png" alt="drawing" width="200"/>](https://doi.org/10.1039/C9SM01344J)  
  
- [<img src="https://charleyschaefer.github.io/images/CoverJPCLett.jpeg" alt="drawing" width="200"/>](https://doi.org/10.1039/C9SM01344J)   &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://charleyschaefer.github.io/images/silk.png" alt="drawing" width="220"/>](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.9b02630)
+ [<img src="https://charleyschaefer.github.io/images/CoverJPCLett.jpeg" alt="drawing" width="200"/>](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c00704)   &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://charleyschaefer.github.io/images/silk.png" alt="drawing" width="220"/>](https://pubs.acs.org/doi/abs/10.1021/acs.macromol.9b02630)
  
 **Research Methodologies:**  
 My approaches include **analytical modelling** approaches through *Statistical Mechanics* and *Master Equations* related to *Polymer Physics* and *(Supra)Molecular Self-Assembly*, model impementation through **research software engineering** (C/C++, octave, bash), and **simulation** approaches through *(kinetic)Monte Carlo* and *Coarse-Grained Molecular Dynamics*.
