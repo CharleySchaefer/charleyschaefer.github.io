@@ -13,7 +13,7 @@ redirect_from:
 About
 ----
 
-I am currently a Researcher co-Investigator in the [Physics of Life](https://www.york.ac.uk/physics/research/physics-of-life/) group at the University of York (UK). This website is intended to give a quick overview of my research Vision, Methodologies, Output.
+I am a Researcher co-Investigator in the [Physics of Life group](https://www.york.ac.uk/physics/research/physics-of-life/) at the University of York (UK). This website is intended to give a quick overview of my research Vision, Methodologies, Output.
 
 <img src="https://charleyschaefer.github.io/images/PoL-logo-tall-800x400.jpeg" alt="drawing" width="200"/>
 
