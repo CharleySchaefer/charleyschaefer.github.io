@@ -11,8 +11,8 @@ redirect_from:
 
 Education & Affiliations
 ------
-* 2018-present: Post-Doctoral Research Associate, University of York (UK) 
-* 2017-2018: Post-Doctoral Research Associate, University of Durham  (UK) 
+* 2022-present: Researcher co-Investigator, University of York  (UK) 
+* 2017-2022: Post-Doctoral Research Associate, University of Durham (UK) and University of York (UK) 
 * 2016-2017: Device Physicist (Organic Electronics), Simbeyond B.V.  (NL)
 * 2016: Ph.D in Applied Physics, Eindhoven University of Technology  (NL)
 * 2012: MSc in Chemical Engineering, Eindhoven University of Technology  (NL)
@@ -50,6 +50,11 @@ Teaching
 ------
 * Guest lecture on collective diffusion & phase separation  
 * Supervision of BSc-MSc level students in research projects
+
+Organisation
+------
+* Committee member Early Career Forum (Physics department York)  
+* Member of steering committee Physics of Life 
 
 Publications 
 ------
