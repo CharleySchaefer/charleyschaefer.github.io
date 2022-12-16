@@ -19,7 +19,12 @@ The latter type of projects are typically funded by the [Biological Physical Sci
 Lectures
 -----
 
-Collective Diffusion and Phase Separation of (Bio-)Macromolecules 
+* *Biophysics: Collective Diffusion and Phase Separation of (Bio-)Macromolecules*  
+  Covers: Flory-Huggins, Langevin and Brownian dynamics, Continuum Equation  
+* *Physics of Life:*  
+  * *Pt. I. Biological Soft-Matter at Thermal Equilibrium*  
+  Covers: Phase diagrams, biomolecular condensates, bio-polymer networksm and intrinsically disordered sticker-and spacer proteins. Focus on structure and linear dynamics (incl. rubber elastisticy andBiological Soft-Matter at Thermal EquilibriumBiological Soft-Matter at Thermal Equilibrium Sticky Rouse reptation).  
+  * *Pt. II. Biological Soft-Matter out of Thermal Equilibrium*
 
 <!---
 #{% include base_path %}
