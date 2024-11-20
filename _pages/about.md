@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Soft Matter in Biology and Materials Science"
+excerpt: "Theoretical Soft Matter and Biological Physics"
 author_profile: true
 redirect_from: 
   - /about/
