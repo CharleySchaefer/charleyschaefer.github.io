@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Soft Matter in Biology and Materials Science"
+title                    : "Theoretical Soft Matter and Biological Physics"
 title_separator          : "-"
 name                     : &name "Charley Schaefer"
-description              : &description "Research Associate; University of York (UK)"
+description              : &description "Lecturer; University of Leeds (UK)"
 url                      : https://charleyschaefer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://charleyschaefer.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Charley Schaefer"
   avatar           : "profile.png"
-  bio              : "Theory and Modelling of Soft Matter in Biology and Materials Science"
-  location         : "University of York (UK)"
+  bio              : "Lecturer in Theoretical Soft Matter and Biological Physics"
+  location         : "University of Leeds (UK)"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.co.uk/citations?user=SKHIHrEAAAAJ&hl=nl&oi=sra"
-  email            : "charley.schaefer AT york.ac.uk"
+  email            : "charley.schaefer AT leeds.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Charley_Schaefer2"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "CharlSchaef"
+  twitter          : #"CharlSchaef"
   vine             :
   weibo            :
   xing             :
