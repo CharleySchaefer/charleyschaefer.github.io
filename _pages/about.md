@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Researcher co-Investigator in the [Physics of Life group](https://www.york.ac.uk/physics/research/physics-of-life/) at the University of York (UK). This website is intended to give a quick overview of my research Vision, Methodologies, Output.
+I am a Lecturer in Theoretical Soft Matter and Biological Physics in the [Molecular and Nanoscale Physics group]([https://www.york.ac.uk/physics/research/physics-of-life/](https://mnp.leeds.ac.uk/)) at the University of York (UK). This website is intended to give a quick overview of my research Vision, Methodologies, Output.
 
 <img src="https://charleyschaefer.github.io/images/PoL-logo-tall-800x400.jpeg" alt="drawing" width="200"/>
 
@@ -34,6 +34,6 @@ Funding
 
 <img src="https://www.ncl.ac.uk/media/wwwnclacuk/facultyofsage/logos/epsrc.png" alt="drawing" width="200"/>
 
-My current research is funded by the EPSRC. Previous projects were funded by the Dutch Polymer Institute (NL), Physics of Life (UK), Biological Physical Sciences network (York, UK) and the Erasmus Exchange Programme (EU). 
+My research has been made possible thanks to funding from the UKRI, EPSRC, Dutch Polymer Institute (NL), Physics of Life (UK), Biological Physical Sciences network (York, UK) and the Erasmus Exchange Programme (EU). 
 
 
