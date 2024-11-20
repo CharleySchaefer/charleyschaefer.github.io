@@ -11,7 +11,8 @@ redirect_from:
 
 Education & Affiliations
 ------
-* 2022-present: Researcher co-Investigator, University of York  (UK) 
+* 2024-Present: Lecturer in Theoretical Soft Matter and Biological Physics, University of Leeds  (UK) 
+* 2022-2024: Researcher co-Investigator, University of York  (UK) 
 * 2017-2022: Post-Doctoral Research Associate, University of Durham (UK) and University of York (UK) 
 * 2016-2017: Device Physicist (Organic Electronics), Simbeyond B.V.  (NL)
 * 2016: Ph.D in Applied Physics, Eindhoven University of Technology  (NL)
