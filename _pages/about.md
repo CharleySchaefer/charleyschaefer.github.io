@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Lecturer in Theoretical Soft Matter and Biological Physics in the [Molecular and Nanoscale Physics group]([https://www.york.ac.uk/physics/research/physics-of-life/](https://mnp.leeds.ac.uk/)) at the University of York (UK). This website is intended to give a quick overview of my research Vision, Methodologies, Output.
+I am a Lecturer in Theoretical Soft Matter and Biological Physics in the [Molecular and Nanoscale Physics group]([https://www.york.ac.uk/physics/research/physics-of-life/](https://mnp.leeds.ac.uk/)) at the University of Leeds (UK). This website is intended to give a quick overview of my research Vision, Methodologies, Output.
 
 <img src="https://charleyschaefer.github.io/images/PoL-logo-tall-800x400.jpeg" alt="drawing" width="200"/>
 
